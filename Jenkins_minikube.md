@@ -1,6 +1,6 @@
 
+To get temprorary poassword from new installation
 
-to get temprorary poassword from new installation
 $ kubectl logs podname -n namespacename
 
 
